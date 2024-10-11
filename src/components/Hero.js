@@ -11,7 +11,7 @@ export default function Hero() {
         social: {
             github: 'https://github.com/Elu620758',
             linkedin: 'https://www.linkedin.com/in/elumalai-p/',
-            resume: 'https://drive.google.com/file/d/1ZKjolNn4l5Oqi3RBsnAHOjs77Uc2jbLg/view?usp=drive_link',
+            resume: 'https://drive.google.com/file/d/1RaUwhStEegA4hBBpcGE1bEvrqXa98sJL/view?usp=drive_link',
             certificates: 'https://drive.google.com/drive/folders/1iy5GHk4iFH7JD4cUm7YQx20Ger70GAOa?usp=sharing'
         }
     }
