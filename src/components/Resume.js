@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.png';
 
 export default function Resume () {
     const config = {
-        link: 'https://www.canva.com/design/DAGACaLVTfs/wZYf6Ks7teGR3KP6pS5_6g/view?utm_content=DAGACaLVTfs&utm_campaign=designshare&utm_medium=link&utm_source=editor'
+        link: 'https://drive.google.com/file/d/1RaUwhStEegA4hBBpcGE1bEvrqXa98sJL/view?usp=drive_link'
     }
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5'>
         <div className='py-5 md:w-1/2 flex justify-center md:justify-end'>
