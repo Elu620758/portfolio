@@ -2,7 +2,7 @@ import ResumeImg from "../assets/resume.png";
 
 export default function Resume() {
   const config = {
-    link: "https://drive.google.com/file/d/1rNYDh4Hpuys2DDLtgGrQVAaA3Qgftmw5/view?usp=drive_link",
+    link: "https://elumalai-resume-mern.netlify.app/",
   };
   return (
     <section
