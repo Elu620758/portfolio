@@ -26,7 +26,7 @@ export default function Hero() {
                 <a href={config.social.github} target='blank' className='pr-5 hover:text-white'><VscGithubInverted size={40} /></a>
                 <a href={config.social.linkedin} target='blank' className='pr-5 hover:text-white'><SiLinkedin size={40} /></a>
                 <a href={config.social.certificates} target='blank' className='pr-5 hover:text-white'><GrCertificate size={40} /></a>
-                <a href={config.social.resume} target='blank'target="_blank" rel="noreferrer" className='pr-5 hover:text-white'><RxResume size={40} /></a>
+                <a href={config.social.resume} target="_blank" rel="noreferrer" className='pr-5 hover:text-white'><RxResume size={40} /></a>
             </div>
         </div>
         <img className='md:w-1/3' src={HeroImg} />
