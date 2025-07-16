@@ -16,14 +16,13 @@ export default function Resume() {
         <div className="flex flex-col justify-center text-white">
           <h1 className="text-4xl border-b-4 border-primary mb-5 w-[140px] font-bold">
             Resume
-          </h1>
+          </h1>          
           <p className="pb-5">
             You can view my resume{" "}
-            <a className="btn" href={config.link} target="blank">
-              {" "}
-              View Here
+            <a className="btn" href={config.link} target="_blank" rel="noreferrer">
+            View Here
             </a>
-          </p>
+</p>
         </div>
       </div>
     </section>
